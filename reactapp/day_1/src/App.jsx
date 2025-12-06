@@ -13,6 +13,7 @@ function App() {
           <img src="https://img1.hscicdn.com/image/upload/f_auto,t_ds_w_800,q_50/lsci/db/PICTURES/CMS/348100/348106.jpg" alt="" />
           <button >84 th hundered loading</button>
           <p style={{fontSize:"40px"}}>Good morning</p>
+          <h3 style={{color:"red"}}>total score 350+</h3>
 
       </div>
     
